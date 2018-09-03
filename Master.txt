@@ -1,4 +1,4 @@
 
- <Version: 1.01>
+ <Version: 1.02>
  /data/Map008.json https://raw.githubusercontent.com/AskiBlack/UpdaterTest1/master/Map008.json
  <End of Version>
