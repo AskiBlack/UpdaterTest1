@@ -1,4 +1,4 @@
-<Version: 3.01>
+<Version: 4.01>
 /data/test.zip https://wordpress.org/latest.zip
 /data/Map008.json https://raw.githubusercontent.com/AskiBlack/UpdaterTest1/master/Map008.json
 <End of Version>
